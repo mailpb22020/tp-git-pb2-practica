@@ -1,7 +1,7 @@
 package PaqueteCalculadora2020;
 
 import java.util.Scanner;
-public class Calculadora {
+public class Calculadora2020 {
  public static void main(String[] args) {
  Integer a;
  Integer b;
